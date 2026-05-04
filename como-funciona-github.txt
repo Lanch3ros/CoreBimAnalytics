@@ -1,0 +1,16 @@
+CÓMO FUNCIONA GITHUB (resumen breve)
+
+Git es el programa en tu computadora que guarda el historial de cambios de tus archivos (versiones).
+
+GitHub es un sitio web donde subes ese historial a la nube para compartirlo, respaldarlo y trabajar en equipo.
+
+Conceptos clave:
+- Repositorio (repo): carpeta del proyecto con su historial de Git.
+- Commit: un "punto de guardado" con un mensaje que describe qué cambiaste.
+- Push: enviar tus commits desde tu PC a GitHub.
+- Pull: traer los cambios que otros subieron desde GitHub a tu PC.
+- Rama (branch): línea de trabajo paralela; suele usarse una rama principal (main) y ramas para tareas o funciones.
+
+Flujo típico: editas archivos → git add (marca qué incluir) → git commit (guardas el punto) → git push (lo subes a GitHub). Otros hacen pull para tener lo último.
+
+En resumen: Git versiona en local; GitHub aloja ese repositorio en internet para colaborar y no perder el trabajo.
